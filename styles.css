@@ -1,16 +1,21 @@
 #profPic{
     width: 250px;
     border-radius: 50%;
+    border: solid 5px black;
 }
 .bio{
     background-color: aliceblue;
+    border: solid 5px black;
 }
 .navigation{
-    background-color: red;
+    /* background-color: red; */
+    border: solid 5px black;
 }
 .video{ 
-    background-color: blue;
+    /* background-color: blue; */
+    border: solid 5px black;
 }
 .projects{
-    background-color: purple;
+    /* background-color: purple; */
+    border: solid 5px black;
 }
