@@ -1,0 +1,16 @@
+#profPic{
+    width: 250px;
+    border-radius: 50%;
+}
+.bio{
+    background-color: aliceblue;
+}
+.navigation{
+    background-color: red;
+}
+.video{ 
+    background-color: blue;
+}
+.projects{
+    background-color: purple;
+}
